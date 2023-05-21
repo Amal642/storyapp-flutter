@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+A basic story app where the story goes on as per users choice
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Amal642/storyapp-flutter/assets/55709461/79a751ed-dcf7-4845-9484-313ea4bbb489)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
